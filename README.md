@@ -27,7 +27,8 @@ Below are the available endpoints:
     - *Description*: Retrieves a list of cars filtered by card brand.
     - *Example*: **`/api/cars/fiat`**
     - *Response*:
-        
+
+        ```json
         [
           {
             "id": 19,
